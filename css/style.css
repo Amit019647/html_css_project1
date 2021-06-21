@@ -1,0 +1,6 @@
+/* CSS reset */
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('img/back.jpg');
+}
